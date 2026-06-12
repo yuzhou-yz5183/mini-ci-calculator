@@ -1,0 +1,21 @@
+{
+  "name": "mini-ci-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzhou-yz5183/mini-ci-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yuzhou-yz5183/mini-ci-calculator/issues"
+  },
+  "homepage": "https://github.com/yuzhou-yz5183/mini-ci-calculator#readme"
+}
